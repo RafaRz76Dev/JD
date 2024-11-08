@@ -1,6 +1,6 @@
 ***
 
-# PROJETO AGENDA-PESQUISA SATISFAÇÂO
+# ✨ PROJETO AGENDA-PESQUISA SATISFAÇÂO
 
 ## Na continuação do curso para  aperfeiçoar meus conhecimentos em mais um desafio da ```integração Back-End + Front-End```!!!
 
