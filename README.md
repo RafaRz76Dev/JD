@@ -1,18 +1,6 @@
 ***
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=6035DF&center=true&vCenter=true&width=435&lines=Olá👋+sou+Rafael+Raizer)](https://git.io/typing-svg)
-
-<img height="120em" src="images/ImagemDevRafa.png"  align="center">
-
-<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=120A2A&center=true&vCenter=true&width=435&lines=Desenvolvedor+Front+End+Júnior" alt="Typing SVG" /></a>  <img src="https://media.giphy.com/media/l1J9sBOqBIvnafnUc/giphy.gif" width="70">
-
-***
-# <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="55"> Venho aqui apresentar <img src="https://media.giphy.com/media/LmqitTYGsNMiWu3VWO/giphy.gif" align="center" width="65"> 
-
-
-  # PROJETO INTEGRADO JDev Treinamentos
+# PROJETO AGENDA-PESQUISA SATISFAÇÂO
 
 ## Na continuação do curso para  aperfeiçoar meus conhecimentos em mais um desafio da ```integração Back-End + Front-End```!!!
 
@@ -31,9 +19,7 @@
 # <div align="center">
 # <img src="https://media.giphy.com/media/9TFBxN300KpCUI6sBD/giphy.gif" align="center" height="55" width="55"> 
 
-### [Clique aqui para acessar o Projeto](https://raizertechdev-production.up.railway.app/agenda_contatos//)
- 
-  <img src="images/AGENDA-CLIENTES.png" align="center" height="500em" width="100%" href="https://rafarz76dev-pesquisa-satisfacao.up.railway.app/agenda_contatos/">
+<img src="images/AGENDA-CLIENTES.png" align="center" height="500em" width="100%" href="https://rafarz76dev-pesquisa-satisfacao.up.railway.app/agenda_contatos/">
 
 <br>
 
@@ -83,13 +69,9 @@ $ java -jar springboot-rest-api-sample-1.0.0-SNAPSHOT.jar
 
 #### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> Vai no navegador e digita: http://localhost:8081/agenda_contatos
 
-### Executando projeto com `Deploy`:
-
-#### <img src="https://media.giphy.com/media/XwcRflO9HD0Sk6RaRM/giphy.gif" align="center" height="25" width="25"> https://raizertechdev-production.up.railway.app/agenda_contatos/
-
 ---
-# Implantação de serviço deploy:
-### Este projeto usa:
+# Implantação de serviço para futuro deploy:
+### Este projeto pode usar:
 - `Railway.app`.
 
 #### Criando um banco de dados `PostgreSQL`,copiando as variáveis ​​de ambiente do banco, criou- se o projeto do `git repositório` com base nessas variáveis, assim colando no editor RAW:
